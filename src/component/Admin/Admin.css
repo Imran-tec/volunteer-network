@@ -1,0 +1,8 @@
+.admin_container{
+    display:flex;
+    margin-top: 4rem;
+}
+.details_container{
+    width: 80%;
+    margin-left: 5ch;
+}

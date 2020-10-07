@@ -1,0 +1,14 @@
+.task_container{
+    text-align: center;
+}
+.task_container h5{
+    background-color: orange;
+    color:#fff;
+    margin:auto;
+    width:70% ;
+  
+    display: block;
+    border-bottom-left-radius:5px ;
+    border-bottom-right-radius:5px ;
+
+}

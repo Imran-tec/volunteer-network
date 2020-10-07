@@ -1,0 +1,23 @@
+/* .from_container{
+    width:70%;
+
+    text-align:center;
+    margin:auto;
+ 
+}
+*/
+.from_container form{
+    margin:auto;
+    width:25%;
+    display:block;
+}
+
+.from_container form label {
+
+    display: block;
+   
+    
+} 
+.from_container form input{
+    width:15rem
+}
